@@ -20,9 +20,9 @@ balance enquiries, credit and debit amounts, among other things. Simply entering
 
 The features our GUI:
 
-Login/Create a bank account
-Credit and debit amount
-Balance inquiry
+- Login/Create a bank account
+- Credit and debit amount
+- Balance inquiry
 
 # Languages.
 - Python
