@@ -42,7 +42,7 @@ https://www.sciencedirect.com/topics/computer-science/banking-application
 https://www.youtube.com/watch?v=71X58zIzrgA
 
 # FAQs.
-1. ** What languages and technologies are used in this project ?**
+1. **What languages and technologies are used in this project ?**
 
  _This project is built with python along with Tkinter which is a Framework used to build GUI apps in python_. 
  
